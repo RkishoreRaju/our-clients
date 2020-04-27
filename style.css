@@ -60,3 +60,9 @@ h2{
 {
     display: block;
 }
+
+.copy{
+    padding-top: 250px;
+    text-align: center;
+    font-weight: bold;
+}
