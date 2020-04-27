@@ -4,8 +4,6 @@ body{
   background:#EFF3F8 !important;
 }
 .container{
-  text-align: center;
-  font-weight: bold;
   padding-top: 150px;
 }
 h2{
@@ -63,6 +61,4 @@ h2{
 
 .copy{
     padding-top: 250px;
-    text-align: center;
-    font-weight: bold;
 }
